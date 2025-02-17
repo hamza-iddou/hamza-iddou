@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hamza Iddou, and I'm a Software Engineer in training, from Morocco. ☠️</h2>
+<h2 align="left">Hi👋! My name is Hamza Iddou, and I'm a Software Engineer in training, from Morocco. ☠️</h2>
 
 ###
 
